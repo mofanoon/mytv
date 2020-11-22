@@ -615,12 +615,7 @@ http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/17
 http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD5.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 5 
 http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 ˢᵈ
-http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/13
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 ˢᵈ
-http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/14
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 3 ˢᵈ
-http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/21
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 ʰᵈ
 http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/1
@@ -642,29 +637,6 @@ http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/8
 http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 10 ʰᵈ
 http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/10
-
-
-
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 1 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 3 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 4 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 5 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 6 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 7 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 8 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 9 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 10 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
 
 #EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|Bein Sports News
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/789
@@ -733,6 +705,26 @@ http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
 
 
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 5 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 6 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 7 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 8 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 9 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 10 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
 
 #EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN  News
 http://194.99.21.90/beinNews/index.m3u8
