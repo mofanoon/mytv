@@ -718,34 +718,6 @@ http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
 #EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 10 HD
 http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
 
-#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN  News
-http://194.99.21.90/beinNews/index.m3u8
-#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sport
-http://194.99.21.90/bein14/index.m3u8
-
-
-#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 1 ˢᵈ
-http://194.99.21.90/Beinsport1/index.m3u8
-#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 2 ˢᵈ
-http://194.99.21.90/Bein2/index.m3u8
-#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 3 ˢᵈ
-http://194.99.21.90/Bein3x/index.m3u8
-#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 4 ˢᵈ
-http://194.99.21.90/Bei4/index.m3u8
-#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 5 ˢᵈ
-http://194.99.21.90/Bein5/index.m3u8
-#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 6 ˢᵈ
-http://194.99.21.90/bein6/index.m3u8
-#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 7 ˢᵈ
-http://194.99.21.90/bein7/index.m3u8
-#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 8 ˢᵈ
-http://194.99.21.90/bein8/index.m3u8
-#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 9 ˢᵈ
-http://194.99.21.90/bein9/index.m3u8
-#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 10 ˢᵈ
-http://194.99.21.90/bein10/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Realmadrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
