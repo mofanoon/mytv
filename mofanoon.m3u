@@ -1,0 +1,1445 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/tv-408-461607.png" group-title="📺Mo Fanoon📺",•●★--| 📺Mo Fanoon📺 |--★●•
+http://server2.quraan.us:9856/
+#EXTINF:-1 tvg-logo="https://d1hlpam123zqko.cloudfront.net/e26/07ae4/bf7b/4ec0/9103/72a28364df31/large/94957.png" group-title="📺Mo Fanoon📺",--| اللهم صلّ على سيدنا محمد |--
+https://github.com/mofanoon/mytv/raw/main/test/elsala-3la-elnaby.mp3
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-praying-icon-png-image_4162419.jpg" group-title="📺Mo Fanoon📺",--|🤲 دعاء لأموات المسلمين 🤲|--
+https://ia801007.us.archive.org/4/items/20190727_20190727_0950/%D8%A7%D9%84%D9%84%D9%87%D9%85%20%D8%A3%D8%BA%D9%81%D8%B1%20%D9%84%D9%87%D9%85%20%D9%88%D8%A7%D8%B1%D8%AD%D9%85%D9%87%D9%85%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%83.mp3
+
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon1.png",|match-time| Fanoon 1
+http://mofanoon.ddns.net:8080/live?channel=1
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon2.png",|match-time| Fanoon 2
+http://mofanoon.ddns.net:8080/live?channel=2
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon3.png",|match-time| Fanoon 3
+http://mofanoon.ddns.net:8080/live?channel=3
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon4.png",|match-time| Fanoon sport 1 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=4&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon5.png",|match-time| Fanoon sport 2 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=5&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon6.png",|match-time| Fanoon sport 3 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=6&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon4.png",|match-time| Fanoon sport 1 FHD
+http://mofanoon.ddns.net:8080/live?channel=4
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon5.png",|match-time| Fanoon sport 2 FHD
+http://mofanoon.ddns.net:8080/live?channel=5
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon6.png",|match-time| Fanoon sport 3 FHD
+http://mofanoon.ddns.net:8080/live?channel=6
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon7.png",|match-time| Fanoon news FHD
+http://mofanoon.ddns.net:8080/live?channel=7 
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon  global FHD
+http://mofanoon.ddns.net:8080/live?channel=8
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon  global ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=8&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 1 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=9&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 2 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=10&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 4 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=11&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 5 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=12&bitrate=2500&res=720x480
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 1 FHD
+http://mofanoon.ddns.net:8080/live?channel=9
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 2 FHD
+http://mofanoon.ddns.net:8080/live?channel=10
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 4 FHD
+http://mofanoon.ddns.net:8080/live?channel=11
+#EXTINF:-1 group-title="MTV 📺" tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png",|match-time| Fanoon fajer 5 FHD
+http://mofanoon.ddns.net:8080/live?channel=12
+
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF ʰᵈ
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF info ʰᵈ
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF neo ʰᵈ
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",das Erste
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",KIKA FHD
+https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",arte ʰᵈ
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",phoenix ʰᵈ
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",one ʰᵈ
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",Vox
+http://5.135.92.133:52841/out/u/124_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
+http://5.135.92.133:52841/out/u/119_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| القرآن الكريم- تلاوات
+http://live.mp3quran.net:8006/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| فارس عابد
+http://live.mp3quran.net:9972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| سعد الغامدي
+http://server2.quraan.us:9854/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| ماهر لمعيقلي 
+http://server2.quraan.us:9856/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| احمد العجمي 
+http://server2.quraan.us:9852/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| عبد الباسط عبد الصمد
+http://quraan.us:9916/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورة الكهف- ماهر المعيقلي
+http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورةالكهف- هزاع البلوشيي
+http://server11.mp3quran.net/hazza/018.mp3
+
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋", |S1| مكة-القرآن الكريم ʰᵈ
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-4.jpg" group-title="Islam 👳🏻‍🕋", |S1| السنة النبوية ʰᵈ
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋", |S2| مكة-القرآن الكريم ˢᵈ
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-4.jpg" group-title="Islam 👳🏻‍🕋", |S2| السنة النبوية ˢᵈ
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" group-title="Islam 👳🏻‍🕋", |S1| البحرين - القرآن الكريم ʰᵈ
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Islam 👳🏻‍🕋", |S1| إقرأ
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Islam 👳🏻‍🕋",|rotana| الرسالة FHD
+https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Islam 👳🏻‍🕋",|rotana| الرسالة ˢᵈ
+https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="NEWS 🌡️📰", |S1| Aljazeera FHD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="NEWS 🌡️📰", |S1| Aljazeera ˢᵈ
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="NEWS 🌡️📰", |S1| Aljazeera mubasher FHD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="NEWS 🌡️📰", |S1| Aljazeera mubasher ˢᵈ
+https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" group-title="NEWS 🌡️📰", |S1| mayadien
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="NEWS 🌡️📰", |S1| arabiya ʰᵈ
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="NEWS 🌡️📰", |S1| arabiya ˢᵈ
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="NEWS 🌡️📰", |S1| Hadath ʰᵈ
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="NEWS 🌡️📰", |S1| Hadath ˢᵈ
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png" group-title="NEWS 🌡️📰", |S1| Russia Today ʰᵈ
+https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png" group-title="NEWS 🌡️📰", |S1| Russia Today ˢᵈ
+https://rt-arab.secure.footprint.net/1104_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg" group-title="NEWS 🌡️📰", |S1| BBC ʰᵈ
+http://vs-hls-ww.live.cf.md.bbci.co.uk:80/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4=128000-video=5070016.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg" group-title="NEWS 🌡️📰", |S1| BBC ˢᵈ
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d437056.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="NEWS 🌡️📰", |S1| Sky news ʰᵈ
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="NEWS 🌡️📰", |S1| Sky news ˢᵈ
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png" group-title="NEWS 🌡️📰", |S1| France 24
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="NEWS 🌡️📰", |S1| Al-Araby FHD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="NEWS 🌡️📰", |S1| Al-Araby ʰᵈ
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARY 🔭📡", |S1| Aljazeera Dok ˢᵈ
+https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="DOCUMENTARY 🔭📡", |S1| AD NAT GEO ˢᵈ
+http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Netflix action
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/67
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Netflix horror
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/68
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Netflix Comedy
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/69
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Netflix  Drama
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/70
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| beout Arabia
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/75
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| beout cinema
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/76
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| beout action
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/77
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Majestic Arabia
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/71
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Majestic Cinema
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/72
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Majestic horror
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/73
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Majestic Kids
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/74
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| OXN Cinema
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/85
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Shahid Action
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/160
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| Sarhan مدبلج
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/66
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 1
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/79
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 2
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/80
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 3
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/81
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 4
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/87
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 5
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/88
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 6
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/89
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|sarhan| SHOOF MAX 7
+http://sarhantv.myq-see.com:25461/sarhanapp/0000/108
+
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| MAJESTIC MOVIES
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/132
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| MAJESTIC HORROR
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/133
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| MAJESTIC ARABIC
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/134
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| MAJESTIC KIDS
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/135
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| NETFLIX ACTION
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/136
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| NETFLIX HORROR
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/137
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| NETFLIX COMEDY
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/138
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| NETFLIX DRAMA
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/139
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| SHAHID ACTION
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/151
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 2🎥🎬",|best| SHAHID HORROR
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/152
+
+
+#EXTINF:-1 tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Palästina Today 
+http://live.paltoday.tv:1935/paltv/live/chunklist_w224703424.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pbc.ps/sites/all/themes/pbctheme/img/pal.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Palästina 2 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pbc.ps/sites/all/themes/pbctheme/img/pal.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Palästina 
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pbc.ps/sites/all/themes/pbctheme/img/Mobasher.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Palästina mubasher 
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+#EXTINF:-1 tvg-logo="https://fatehmedia.eu/wp-content/uploads/2015/05/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9.jpg" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| audeh 
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Maan 
+http://htvmada.mada.ps:8888/maannews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pbc.ps/sites/all/themes/pbctheme/img/48.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Musawa 
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.nn.ps/weblog/img/logov3.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Najah 
+http://htvpalsat.mada.ps:8888/najah/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Falstinie 
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1127460779878428672/rKGK-CRv.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Al Aqsa 
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1200px-Hala_TV_Logo1.svg.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Hala panet
+http://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.arn.ps/uploads/radioslogo/tv.jpg" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Ajyal
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Watar TV
+http://htvint.mada.ps:8889/orient/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mrfm.ps/assets/images/Group%2025@2x.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.nablustv.net/images/web_16.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Nablus tv 
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wattan.net/media/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Wattan
+http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:-1 tvg-logo="http://btv2020.com/wp-content/uploads/2020/09/btv00.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Btv
+http://live.btv2020.com:1935/live/btv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1200px-Hala_TV_Logo1.svg.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| hala Ramallah
+https://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Raya tv 1 
+http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Fajer 2 
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jordanfashionweekofficial.com/wp-content/uploads/2019/03/ammantv-1.png" group-title="JORDAN 🇯🇴", |S1| Amman
+https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://roya.tv/img/royatv/royaTvLogo.png" group-title="JORDAN 🇯🇴", |S1| Roya FHD
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://roya.tv/img/royatv/royaTvLogo.png" group-title="JORDAN 🇯🇴", |S1| Roya ˢᵈ
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.39eb517e.png" group-title="JORDAN 🇯🇴", |S1| Jordan FHD
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.39eb517e.png" group-title="JORDAN 🇯🇴", |S1| Jordan ˢᵈ
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_480p.m3u8
+#EXTINF:-1 tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/y/B5/2/Poster.png" group-title="JORDAN 🇯🇴", |S1| Jordan sport FHD
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/y/B5/2/Poster.png" group-title="JORDAN 🇯🇴", |S1| Jordan sport ˢᵈ
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_480p.m3u8
+#EXTINF:-1 tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="JORDAN 🇯🇴", |S1| Al mamlaka FHD
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="JORDAN 🇯🇴", |S1| Al mamlaka ˢᵈ
+https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧", |S1| al Allam FHD
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧", |S1| al Allam ˢᵈ
+https://live2.alalamtv.net/live/Alalam_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON 🇱🇧", |S1| Al Manar
+http://manar.live:80/x.smil/chunklist_w636211964_b500000.m3u8
+#EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON 🇱🇧", |S1| Al Manar 2
+https://manar.live/iptv/chunklist_w647676101_b300000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png" group-title="LEBANON 🇱🇧", |S1| Otv FHD 
+http://digitalxpress.gcdn.co/live1/otv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d5/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84.jpg" group-title="LEBANON 🇱🇧", |S1| Future
+http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧", |S1|  MTV 
+http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI FHD
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI ˢᵈ
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/10/Asset-1-e1533308069247.png" group-title="SYRIA 🇸🇾", |S1| Halab today
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1350_1.png" group-title="SYRIA 🇸🇾", |S1| Sama tv
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="SYRIA 🇸🇾", |S1| Lana+ ˢᵈ
+https://stream.lanacanal.tv:444/live/5f897da5763f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="SYRIA 🇸🇾", |S1| Lana tv 
+https://stream.lanacanal.tv:444/live/5f8976fdc153f/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="SYRIA 🇸🇾", |digital| Lana tv ˢᵈ
+http://digitalxpress.gcdn.co/live1/lanatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="SYRIA 🇸🇾", |S1| Syria FHD 
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="SYRIA 🇸🇾", |S1| Syria ˢᵈ 
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1300_1.png" group-title="SYRIA 🇸🇾", |S1| Syria drama
+http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.video.wataan.com/uploads/1062019-061503AM.png" group-title="SYRIA 🇸🇾", |S1| Syria sat Tv 
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Syrian_News_Logo.png" group-title="SYRIA 🇸🇾", |S1| Syria News
+http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.video.wataan.com/uploads/1062019-061410AM.png" group-title="SYRIA 🇸🇾", |S1| Souryana
+http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.video.wataan.com/uploads/1062019-061427AM.png" group-title="SYRIA 🇸🇾", |S1| Nour
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=aaasar%2Fsyrian_education.gif" group-title="SYRIA 🇸🇾", |S1| Syria edu
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="MBC Group 🌝🌝",|MBC| 1 FHD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝" ,|MBC| 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="MBC Group 🌝🌝",|MBC| 3 FHD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC Group 🌝🌝" ,|MBC| 4 FHD
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png"  group-title="MBC Group 🌝🌝",|MBC| 5 FHD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="MBC Group 🌝🌝" ,|MBC| Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png"  group-title="MBC Group 🌝🌝",|MBC| Max FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png"  group-title="MBC Group 🌝🌝",|MBC| Iraq FHD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝" ,|MBC| Masr FHD
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png"  group-title="MBC Group 🌝🌝",|MBC| Masr 2 FHD
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png"  group-title="MBC Group 🌝🌝",|MBC| Drama FHD
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png"  group-title="MBC Group 🌝🌝",|MBC| Drama+ FHD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png"  group-title="MBC Group 🌝🌝",|S1|  MBC Varity 
+http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png"  group-title="MBC Group 🌝🌝",|MBC| Bollywood FHD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="MBC Group 🌝🌝",|MBC| Panorama FHD
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC Group 🌝🌝" ,|MBC| 1 ʰᵈ
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝" ,|MBC| 2 ʰᵈ
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="MBC Group 🌝🌝",|MBC| 3 ʰᵈ
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png"  group-title="MBC Group 🌝🌝",|MBC| 4 ʰᵈ
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png"  group-title="MBC Group 🌝🌝",|MBC| 5 ʰᵈ
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png"  group-title="MBC Group 🌝🌝",|MBC| Action ʰᵈ
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png"  group-title="MBC Group 🌝🌝",|MBC| Max ʰᵈ
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png"  group-title="MBC Group 🌝🌝",|MBC| Iraq ʰᵈ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png"  group-title="MBC Group 🌝🌝",|MBC| Masr ʰᵈ
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png"  group-title="MBC Group 🌝🌝",|MBC| Masr 2 ʰᵈ
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png"  group-title="MBC Group 🌝🌝",|MBC| Drama ʰᵈ
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="MBC Group 🌝🌝" ,|MBC| Drama+ ʰᵈ
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png"  group-title="MBC Group 🌝🌝",|S1|  MBC Varity ʰᵈ
+http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="MBC Group 🌝🌝" ,|MBC| Bollywood ʰᵈ
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="MBC Group 🌝🌝",|MBC| Panorama ʰᵈ
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="MBC Group 🌝🌝",|MBC| 1 ˢᵈ
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝" ,|MBC| 2 ˢᵈ
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="MBC Group 🌝🌝",|MBC| 3 ˢᵈ
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png"  group-title="MBC Group 🌝🌝",|MBC| 4 ˢᵈ
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png"  group-title="MBC Group 🌝🌝",|MBC| 5 ˢᵈ
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="MBC Group 🌝🌝" ,|MBC| Action ˢᵈ
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png"  group-title="MBC Group 🌝🌝",|MBC| Max ˢᵈ
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="MBC Group 🌝🌝" ,|MBC| Iraq ˢᵈ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝" ,|MBC| Masr ˢᵈ
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png"  group-title="MBC Group 🌝🌝",|MBC| Masr 2 ˢᵈ
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png"  group-title="MBC Group 🌝🌝",|MBC| Drama ˢᵈ
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png"  group-title="MBC Group 🌝🌝",|MBC| Drama+ ˢᵈ
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png"  group-title="MBC Group 🌝🌝",|S1|  MBC Varity ˢᵈ
+http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png"  group-title="MBC Group 🌝🌝",|MBC| Bollywood ˢᵈ
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="MBC Group 🌝🌝",|MBC| Panorama ˢᵈ
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_4.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC Group 🌝🌝", |S1| MBC 1 
+http://digitalxpress.gcdn.co/live1/mbc1/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC Group 🌝🌝", |S1| MBC 1 ʰᵈ
+http://digitalxpress.gcdn.co/MBC1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝", |S1| MBC 2 
+http://digitalxpress.gcdn.co/live1/mbc2/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝", |S1| MBC 2 ʰᵈ
+http://digitalxpress.gcdn.co/live1/MBC2_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC Group 🌝🌝", |S1| MBC 3
+http://digitalxpress.gcdn.co/live1/mbc3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC Group 🌝🌝", |S1| MBC 3 ʰᵈ
+http://digitalxpress.gcdn.co/live1/MBC3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC Group 🌝🌝", |S1| MBC 4 
+http://digitalxpress.gcdn.co/live1/mbc4/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC Group 🌝🌝", |S1| MBC 4 ʰᵈ
+http://digitalxpress.gcdn.co/live1/MBC4_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="MBC Group 🌝🌝", |S1| MBC Action 
+http://digitalxpress.gcdn.co/live1/mbc_action/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="MBC Group 🌝🌝", |S1| MBC Action ʰᵈ
+http://digitalxpress.gcdn.co/live1/MBC_ACTION_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="MBC Group 🌝🌝", |S1| MBC Max
+http://digitalxpress.gcdn.co/live1/MBCMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="MBC Group 🌝🌝", |S1| MBC Iraq
+http://digitalxpress.gcdn.co/live1/mbciraq/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝", |S1| MBC Masr
+http://digitalxpress.gcdn.co/live1/mbcmasr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝", |S1| MBC Masr 2
+http://digitalxpress.gcdn.co/live1/RTMP-mbcmasr2/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC Group 🌝🌝", |S1| MBC Drama
+http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="MBC Group 🌝🌝", |S1| MBC Drama+
+http://digitalxpress.gcdn.co/live1/MBC_DRAMA_HD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA Group 🤣🤣",|rotana| Cinema Ksa FHD
+https://rotana.hibridmedia.com/rotanascte35/cinema_scte35/rotana/cinema_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA Group 🤣🤣",|rotana| khaleejiya FHD
+https://rotana.hibridmedia.com/rotanascte35/khaleejiya_scte35/rotana/khaleejiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" group-title="ROTANA Group 🤣🤣",|rotana| Kids FHD
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png" group-title="ROTANA Group 🤣🤣",|rotana| Comedy FHD
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/drama.png" group-title="ROTANA Group 🤣🤣",|rotana| Drama FHD
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/classic.png?v=3" group-title="ROTANA Group 🤣🤣",|rotana| Classic FHD
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA Group 🤣🤣",|rotana| Cinema Ksa ˢᵈ
+https://rotana.hibridmedia.com/rotanascte35/cinema_scte35/rotana/cinema_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA Group 🤣🤣",|rotana| khaleejiya ˢᵈ
+https://rotana.hibridmedia.com/rotanascte35/khaleejiya_scte35/rotana/khaleejiya_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" group-title="ROTANA Group 🤣🤣",|rotana| Kids ˢᵈ
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png" group-title="ROTANA Group 🤣🤣",|rotana| Comedy ˢᵈ
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/drama.png" group-title="ROTANA Group 🤣🤣",|rotana| Drama ˢᵈ
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/classic.png?v=3" group-title="ROTANA Group 🤣🤣",|rotana| Classic ˢᵈ
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" group-title="ART Group 😶😶", |S1| ART Aflam 1
+http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" group-title="ART Group 😶😶", |S1| ART Aflam 2
+http://digitalxpress.gcdn.co/live1/osnartaflam2/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1195_1.png" group-title="ART Group 😶😶", |S1| ART Cinema
+http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
+
+#EXTINF:-1 group-title="ART Group 😶😶", |arab| ART Aflam 1
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3366
+#EXTINF:-1 group-title="ART Group 😶😶", |arab| ART Aflam 2
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3367
+#EXTINF:-1group-title="ART Group 😶😶", |arab| ART HEKAYAT 1
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3368
+#EXTINF:-1 group-title="ART Group 😶😶", |arab| ART HEKAYAT 2
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3369
+#EXTINF:-1 group-title="ART Group 😶😶", |arab| ART CINEMA 
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3370
+
+
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN Group 🤪🤪", |S1| OSN Ya Hala Cinma ʰᵈ
+http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="OSN Group 🤪🤪", |S1| B4u
+http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2000px-WWE_Logo.svg.png" group-title="OSN Group 🤪🤪", |S1| OSN WWE ʰᵈ
+http://dx3.gcdn.co/OSNWWE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN Group 🤪🤪", |S1| OSN kids
+http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN Group 🤪🤪", |S1| OSN Movies ʰᵈ
+http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="OSN Group 🤪🤪", |S1| OSN: Star Movies
+http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="OSN Group 🤪🤪", |S1| OSN: Star World
+http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 1 ʰᵈ
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 2 ʰᵈ
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 3 ʰᵈ
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 4 ʰᵈ
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1327_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Series 1 ʰᵈ
+http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Series 2 ʰᵈ
+http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="BEIN Group 🤑🤑", |S1| beIN Boomerang ʰᵈ
+http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Cartoon-Network-Arabic-1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Cartoon Network ʰᵈ
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/The_logo_of_be_junior_TV_Channel.png" group-title="BEIN Group 🤑🤑", |S1| be junior
+http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Baraem_new_logo.png/1200px-Baraem_new_logo.png" group-title="BEIN Group 🤑🤑", |S1| Braem
+http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png" group-title="BEIN Group 🤑🤑", |S1| Bein j
+http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="BEIN Group 🤑🤑", |S1| BEIN AMC ʰᵈ
+http://digitalxpress.gcdn.co/live1/BEINAMCHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png" group-title="BEIN Group 🤑🤑", |S1| bein fatafeathd
+http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Gourmet.png" group-title="BEIN Group 🤑🤑", |S1| bein Gourmet
+http://digitalxpress.gcdn.co/live1/beingourmet/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT NEWS ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/11
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/12
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 1 
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/15
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 2 
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD3.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 3 
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/17
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD4.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 4 
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD5.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 5 
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 ˢᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 ˢᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/14
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 3 ˢᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/21
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 3 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 4 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 5 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 6 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 7 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 8 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 9 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 10 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE4455/BEST-LIVE4455/10
+
+
+
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 5 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 6 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 7 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 8 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 9 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino|beIN Sports 10 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
+
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|Bein Sports News
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/789
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 1
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/776
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 2
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/777
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 3
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/778
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 4
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/779
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 5
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/780
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 6
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/781
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 7
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/782
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 8
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/783
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 9
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|domino2|BEIN Sports 10
+http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
+
+
+
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|beIN Sport News FHD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/83116
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 1 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74136
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 2 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74137
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 3 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74138
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 4 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74139
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 5 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74140
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 6 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74141
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 7 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74142
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|5days|BEIN SPORTS 8 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74143
+
+
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN1.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN2.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN3.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4703
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN4.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1385
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN5.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1384
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN6.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4702
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN7.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1387
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN8.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1399
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN9.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bp| beIN10.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
+
+
+
+#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN  News
+http://194.99.21.90/beinNews/index.m3u8
+#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sport
+http://194.99.21.90/bein14/index.m3u8
+
+
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 1 ˢᵈ
+http://194.99.21.90/Beinsport1/index.m3u8
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 2 ˢᵈ
+http://194.99.21.90/Bein2/index.m3u8
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 3 ˢᵈ
+http://194.99.21.90/Bein3x/index.m3u8
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 4 ˢᵈ
+http://194.99.21.90/Bei4/index.m3u8
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 5 ˢᵈ
+http://194.99.21.90/Bein5/index.m3u8
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 6 ˢᵈ
+http://194.99.21.90/bein6/index.m3u8
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 7 ˢᵈ
+http://194.99.21.90/bein7/index.m3u8
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 8 ˢᵈ
+http://194.99.21.90/bein8/index.m3u8
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 9 ˢᵈ
+http://194.99.21.90/bein9/index.m3u8
+#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |kurd| BeIN Sports 10 ˢᵈ
+http://194.99.21.90/bein10/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Realmadrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Realmadrid en
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 1 FHD
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 1 ʰᵈ
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 2 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 2 ʰᵈ
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 3 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 3 ʰᵈ
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Race FHD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Race ʰᵈ
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports1 FHD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports1 ʰᵈ
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports2 FHD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports2 ʰᵈ
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports3 FHD
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports3 ʰᵈ
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports4 FHD
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports4 ʰᵈ
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",YAS FHD
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",YAS ʰᵈ
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass 1 ʰᵈ
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass 2 ʰᵈ
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyia/master570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass 4 ʰᵈ
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass 5 ʰᵈ
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass online ʰᵈ
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlespfwGsd/master570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Oman tv sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Red Bull TV ʰᵈ
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.qtv.qa/assets/2020/images/qtv.png" group-title="Gulf 🇰🇼", |S1|Qatar 1
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.qtv.qa/assets/2020/images/qtvTwo.png" group-title="Gulf 🇰🇼", |S1|Qatar 2
+http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
+
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Al Rai 
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Dubai Tv
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Sma Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Dubai zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Noor dubai
+http://dmiffthvll.cdn.mangomolo.com:80/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Saudi TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Abudhabi emarat FHD
+http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Abudhabi emarat ʰᵈ
+http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Abudhabi FHD
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Abudhabi ʰᵈ
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Abudhabi drama FHD
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Abudhabi drama ʰᵈ
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| KTV 1 ʰᵈ
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| KTV 2 ʰᵈ
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_720p/chunks.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| KTV Al Arabi ʰᵈ
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_720p/chunks.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Oman tv GN FHD
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Oman tv mubasher FHD
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| Oman thkafya FHD
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| SHarqa 
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_360p.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| SHarqa FHD
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| SHarqa from kalba ˢᵈ
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_360p_chunks.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" , |S1| SHarqa from kalba FHD
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
+
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" , |S1| Touyour babay
+http://digitalxpress.gcdn.co/live1/touyourbaby/index.m3u8
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" , |S1| Karameesh
+http://digitalxpress.gcdn.co/live1/RTMP-Karameesh/index.m3u8
+
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" , |S1| Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" ,|MBC|  Cartoon network FHD
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" ,|MBC|  Cartoon network ˢᵈ
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" , |S1| Taha
+http://digitalxpress.gcdn.co/live1/RTMP-Taha_TV/index.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Morocco 🇲🇦",|MBC| 5 FHD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://maroc.mom-rsf.org/typo3temp/_processed_/2/0/csm_28-1120_import_129fc8fd3f.png" group-title="Morocco 🇲🇦",|S1| 2M Maroc
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/alaoula.png" group-title="Morocco 🇲🇦",|S1| Al Aoulaᴴᴰ
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/laayoune.png" group-title="Morocco 🇲🇦",|S1| LAAYOUNᴴᴰ⁺
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/arriyadia.png" group-title="Morocco 🇲🇦",|S1| Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/attakafiya.png" group-title="Morocco 🇲🇦",|S1| Athaqafia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/almaghribia.png" group-title="Morocco 🇲🇦",|S1| Almgharibia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/assadissa.png" group-title="Morocco 🇲🇦",|S1| Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/tamazight.png" group-title="Morocco 🇲🇦",|S1| tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" group-title="Morocco 🇲🇦",|S1| Medi1 Tv
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" tvg-country="MA" group-title="Morocco 🇲🇦",|S1| Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.m24tv.ma/ar/system/files/LOGO-M24-VF-sans-texte.png" tvg-country="MA" group-title="Morocco 🇲🇦",|S1| M24
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w1920236347_b4500000_sleng.m3u8
+
+
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" ,لا تراجع ولا استسلام   
+https://belugacdn.shoofmax.com/la-tarajoo/720p/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" ,رمضان مبروك ابو العالمين حمودة 
+https://belugacdn.shoofmax.com/ramadan-mabrouk/720p/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" ,مرجان احمد مرجان
+https://belugacdn.shoofmax.com/morgan-ahmad-morgan/720p/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" ,العيال كبرت  
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-11/movies/ElEyalKebret.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" ,شاهد مشفش حاجة 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" ,مدرسة المشاغبين
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/moshghbeen.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" ,الواد سيد شغال
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/wadsydalshaghal.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" ,الزعيم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" ,شاهد مشفش حاجة 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge ضيعة ضايعة 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/27.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge ضيعة ضايعة 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/30.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 01
+https://cdn.alarab.com/textfilenames/testkhil1.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 02
+https://cdn.alarab.com/textfilenames/testkhil2.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 03
+https://cdn.alarab.com/textfilenames/testkhil3.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 04
+https://cdn.alarab.com/textfilenames/testkhil4.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 05
+https://cdn.alarab.com/textfilenames/testkhil5.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 06
+https://cdn.alarab.com/textfilenames/testkhil6.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 07
+https://cdn.alarab.com/textfilenames/testkhil7.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 08
+https://cdn.alarab.com/h264/159313_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 09
+https://cdn.alarab.com/h264/159311_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 10
+https://cdn.alarab.com/textfilenames/testkhil10.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 11
+https://cdn.alarab.com/textfilenames/testkhil11.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 12
+https://cdn.alarab.com/textfilenames/testkhil12.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 13
+https://cdn.alarab.com/textfilenames/testkhil13.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 14
+https://cdn.alarab.com/textfilenames/testkhil14.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 15
+https://cdn.alarab.com/textfilenames/testkhil15.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 16
+https://cdn.alarab.com/textfilenames/testkhil16.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 17
+https://cdn.alarab.com/textfilenames/testkhil17.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 18
+https://cdn.alarab.com/textfilenames/testkhil18.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 19
+https://cdn.alarab.com/textfilenames/testkhil19.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 20
+https://cdn.alarab.com/textfilenames/testkhil20.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 21
+https://cdn.alarab.com/textfilenames/testkhil21.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 22
+https://cdn.alarab.com/textfilenames/testkhil22.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 23
+https://cdn.alarab.com/textfilenames/testkhil23.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 24
+https://cdn.alarab.com/textfilenames/testkhil24.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 25
+https://cdn.alarab.com/textfilenames/testkhil25.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 26
+https://cdn.alarab.com/textfilenames/testkhil26.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 27
+https://cdn.alarab.com/textfilenames/testkhil27.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 28
+https://cdn.alarab.com/textfilenames/testkhil28.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 29
+https://cdn.alarab.com/textfilenames/testkhil29.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 30
+https://cdn.alarab.com/textfilenames/testkhil30.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 31
+https://cdn.alarab.com/textfilenames/testkhil31.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 32
+https://cdn.alarab.com/textfilenames/testkhil32.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 33
+https://cdn.alarab.com/textfilenames/testkhil33.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 34
+https://cdn.alarab.com/textfilenames/testkhil34.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 35
+https://cdn.alarab.com/textfilenames/testkhil35.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 36
+https://cdn.alarab.com/textfilenames/testkhil36.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 37
+https://cdn.alarab.com/textfilenames/testkhil37.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 38
+https://cdn.alarab.com/textfilenames/testkhil38.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge في الداخل 39
+https://cdn.alarab.com/textfilenames/testkhil39.mp4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  1 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/24.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/26.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/27.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  28 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/28.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/29.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/30.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  31 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/31.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  32 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/32.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge الحفرة الاول  33
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/33.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  1 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/24.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/26.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/27.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  28 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/28.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/29.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/30.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  31 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/31.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  32 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/32.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  33
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/33.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge الحفرة الثاني  34
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/34.mp4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 1 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/24.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge الحفرة الثالث 26
+https://p2-58083-m-mino-outline-aa.govid.co/stream/SxaNFJCpAccZC9k8mdxx-g/720.8224.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 01
+https://cdn.alarab.com/h264/158933_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 02
+https://cdn.alarab.com/h264/159103_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 03
+https://cdn.alarab.com/h264/159254_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 04
+https://cdn.alarab.com/h264/159402_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 05
+https://cdn.alarab.com/h264/159549_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 06
+https://cdn.alarab.com/h264/159698_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 07
+https://cdn.alarab.com/h264/159844_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 08
+https://cdn.alarab.com/h264/159989_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 09
+https://cdn.alarab.com/h264/160142_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 10
+https://cdn.alarab.com/h264/160280_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge الحفرة الرابع 11
+https://cdn.alarab.com/h264/160404_720p.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 01
+https://cdn.alarab.com/h264/159079_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 02
+https://cdn.alarab.com/h264/159237_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 03
+https://cdn.alarab.com/h264/159379_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 04
+https://cdn.alarab.com/h264/159533_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 05
+https://cdn.alarab.com/h264/159668_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 06
+https://cdn.alarab.com/h264/159824_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 08
+https://cdn.alarab.com/h264/160117_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 09
+https://cdn.alarab.com/h264/160248_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge علي رضا 10
+https://cdn.alarab.com/h264/160388_720p.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 1 الخائن
+https://cdn.alarab.com/h264/159631_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 2 الخائن
+https://cdn.alarab.com/h264/159781_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 3 الخائن
+https://cdn.alarab.com/h264/159948_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 4 الخائن
+https://cdn.alarab.com/h264/160033_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 5 الخائن
+https://c104-galal-1152109-e1.govid.co/download/CimaClub.Cam-alkhain.s01.ep05-[720p]-720.16018.mp4
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 6 الخائن
+https://cdn.alarab.com/h264/160315_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 الخائن",Folge 7 الخائن
+https://cdn.alarab.com/h264/160436_720p.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 01
+https://cdn.alarab.com/h264/160083_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 02
+https://cdn.alarab.com/h264/160108_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 03
+https://cdn.alarab.com/h264/160144_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 04
+https://cdn.alarab.com/h264/160158_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 05
+https://cdn.alarab.com/h264/160187_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 06
+https://cdn.alarab.com/h264/160229_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 07
+https://cdn.alarab.com/h264/160239_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 08
+https://cdn.alarab.com/h264/160277_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge الهيبة 09
+https://cdn.alarab.com/h264/160290_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 10
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E10.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 11
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E11.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 12
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E12.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 13
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E13.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 14
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E14.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 15
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E15.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge الهيبة 16
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E16.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 17 الهيبة 
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E17.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 18 الهيبة 
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E18.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 19 الهيبة 
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E19.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 20 الهيبة 
+http://turkish.trueiptv.re/Gulfxx/AlHayba/AlHayba.S04E20.mp4
+
+
