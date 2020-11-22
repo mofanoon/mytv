@@ -4,7 +4,7 @@ daily IPTV list  |**AR** ©️
 
 
 # | 📺Mo Fanoon📺 | ©️
-https://raw.githubusercontent.com/mofanoon/iptv/main/mofanoon.m3u
+https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
 (Computer (vlc) / Iphone & Ipad (Cloud stream) / Firetv Stick & Android (Perfect player.apk✔️, NET IPTV **samsung tizen** ✔️, IPTV.apk + MX player or XMTV player or Wuffy player)) 
 
