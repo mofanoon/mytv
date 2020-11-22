@@ -13,24 +13,34 @@ http://mofanoon.ddns.net:8080/live?channel=1
 http://mofanoon.ddns.net:8080/live?channel=2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon3.png" group-title="MTV 📺",|match-time| Fanoon 3
 http://mofanoon.ddns.net:8080/live?channel=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon4.png" group-title="MTV 📺",|match-time| Fanoon sport 1 FHD
-http://mofanoon.ddns.net:8080/live?channel=4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon5.png" group-title="MTV 📺",|match-time| Fanoon sport 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon4.png" group-title="MTV 📺",|match-time| Fanoon sport 1 ʰᵈ
+http://mofanoon.ddns.net:8080/live?channel=4 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon5.png" group-title="MTV 📺",|match-time| Fanoon sport 2 ʰᵈ
 http://mofanoon.ddns.net:8080/live?channel=5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon6.png" group-title="MTV 📺",|match-time| Fanoon sport 3 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon6.png" group-title="MTV 📺",|match-time| Fanoon sport 3 ʰᵈ
 http://mofanoon.ddns.net:8080/live?channel=6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon7.png" group-title="MTV 📺",|match-time| Fanoon news FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon4.png" group-title="MTV 📺",|match-time| Fanoon sport 1 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=4&bitrate=2500&res=720x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon5.png" group-title="MTV 📺",|match-time| Fanoon sport 2 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=5&bitrate=2500&res=720x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon6.png" group-title="MTV 📺",|match-time| Fanoon sport 3 ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=6&bitrate=2500&res=720x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon7.png" group-title="MTV 📺",|match-time| Fanoon news
 http://mofanoon.ddns.net:8080/live?channel=7 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon  global FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon  global
 http://mofanoon.ddns.net:8080/live?channel=8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon7.png" group-title="MTV 📺",|match-time| Fanoon news ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=7&bitrate=2500&res=720x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon  global ˢᵈ
+http://mofanoon.ddns.net:8080/transcoded?channel=8&bitrate=2500&res=720x480
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon fajer 1 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon test 1
 http://mofanoon.ddns.net:8080/live?channel=9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon fajer 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon test 2
 http://mofanoon.ddns.net:8080/live?channel=10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon fajer 4 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon test 3
 http://mofanoon.ddns.net:8080/live?channel=11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon fajer 5 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon8.png" group-title="MTV 📺",|match-time| Fanoon test 4
 http://mofanoon.ddns.net:8080/live?channel=12
 
 
