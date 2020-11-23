@@ -7,7 +7,7 @@ daily IPTV list  |**AR** ©️
 https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
 
-**Ottplayer**   
+**Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. لا تقم بإضافة جهاز جديد 😃😃 soon only on ottplayer :D  
 
 
                 username : ali96
