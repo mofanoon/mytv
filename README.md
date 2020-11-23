@@ -7,7 +7,10 @@ daily IPTV list  |**AR** ©️
 https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
 
-**Ottplayer**  *username : ali96
+**Ottplayer**   
+
+
+                username : ali96*
 
 
                 password : 12312311*
