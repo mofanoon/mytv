@@ -15,7 +15,11 @@ https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
                 password : 12312311
 
-(Computer (vlc, Ottplayer for windows) / Iphone & Ipad (Cloud stream, Ottplayer) / Firetv Stick & Android (Perfect player.apk, Ottplayer✔️) / **Samsung tizen**(NET IPTV, Ottplayer)) 
+Computer (vlc, Ottplayer for windows)  >> mtv-windows
+
+/ Iphone & Ipad (Cloud stream, Ottplayer)  >> ios
+/ Firetv Stick & Android (Perfect player.apk, Ottplayer✔️)  >> FTV
+/ **Samsung tizen**(NET IPTV, Ottplayer)   >> mtv
 
 الله يهديك اخي العزيز .. وشكرا لسرقتك بهدوء 🤲 🤣🤣
 
