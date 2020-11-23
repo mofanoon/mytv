@@ -8,6 +8,8 @@ https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
 
 **Ottplayer**  *username : ali96
+
+
                 password : 12312311*
 
 (Computer (vlc, Ottplayer for windows) / Iphone & Ipad (Cloud stream, Ottplayer) / Firetv Stick & Android (Perfect player.apk, Ottplayer✔️) / **Samsung tizen**(NET IPTV, Ottplayer)) 
