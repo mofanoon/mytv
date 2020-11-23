@@ -15,13 +15,13 @@ https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
                 password : 12312311
 
-/**Computer** >> vlc **or** (Ottplayer for windows  >> mtv-windows)
+/**Computer** >> vlc **or** (Ottplayer for windows  >> ***mtv-windows***)
 
-/**Iphone & Ipad** >> Cloud stream **or** (Ottplayer  >> mtv-ios)
+/**Iphone & Ipad** >> Cloud stream **or** (Ottplayer  >> ***mtv-ios***)
 
-/**Firetv Stick & Android** >> Perfect player.apk **or** (Ottplayer  >> mtv-FTV)
+/**Firetv Stick & Android** >> Perfect player.apk **or** (Ottplayer  >> ***mtv-FTV***)
 
-/**Samsung tizen** >> NET IPTV **or** (Ottplayer   >> mtv-smartTV)
+/**Samsung tizen** >> NET IPTV **or** (Ottplayer   >> ***mtv-smartTV***)
 
 الله يهديك اخي العزيز .. وشكرا لسرقتك بهدوء 🤲 🤣🤣
 
