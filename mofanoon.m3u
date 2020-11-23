@@ -5,8 +5,6 @@ http://server2.quraan.us:9856/
 #EXTINF:-1 tvg-logo="https://d1hlpam123zqko.cloudfront.net/e26/07ae4/bf7b/4ec0/9103/72a28364df31/large/94957.png" group-title="📺Mo Fanoon📺",--| اللهم صلّ على سيدنا محمد |--
 https://github.com/mofanoon/mytv/raw/main/test/elsala-3la-elnaby.mp3
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-praying-icon-png-image_4162419.jpg" group-title="📺Mo Fanoon📺",--|🤲 دعاء لأموات المسلمين 🤲|--
-https://ia801007.us.archive.org/4/items/20190727_20190727_0950/%D8%A7%D9%84%D9%84%D9%87%D9%85%20%D8%A3%D8%BA%D9%81%D8%B1%20%D9%84%D9%87%D9%85%20%D9%88%D8%A7%D8%B1%D8%AD%D9%85%D9%87%D9%85%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%83.mp3
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-praying-icon-png-image_4162419.jpg" group-title="📺Mo Fanoon📺",--|🤲دعاء 2🤲|--
 https://github.com/mofanoon/mytv/raw/main/test/doaa-lamoat-almslmyn.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mofanoon/fanoonplusTV/main/icons/fanoon1.png" group-title="MTV 📺",|match-time| Fanoon 1
