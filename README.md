@@ -17,11 +17,11 @@ https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 
 /**Computer** >> vlc **or** (Ottplayer for windows  >> mtv-windows)
 
-/**Iphone & Ipad** >> Cloud stream **or** (Ottplayer  >> ios)
+/**Iphone & Ipad** >> Cloud stream **or** (Ottplayer  >> mtv-ios)
 
-/**Firetv Stick & Android** >> Perfect player.apk **or** (Ottplayer  >> FTV)
+/**Firetv Stick & Android** >> Perfect player.apk **or** (Ottplayer  >> mtv-FTV)
 
-/**Samsung tizen** >> NET IPTV **or** (Ottplayer   >> mtv)
+/**Samsung tizen** >> NET IPTV **or** (Ottplayer   >> mtv-smartTV)
 
 الله يهديك اخي العزيز .. وشكرا لسرقتك بهدوء 🤲 🤣🤣
 
