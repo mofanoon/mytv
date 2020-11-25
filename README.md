@@ -22,6 +22,7 @@ daily IPTV list  |**AR** ©️
 /**Firetv Stick & Android** >> (Ottplayer  || ***mtv-FTV***)  
 
 /**Samsung tizen** >>          (Ottplayer   || ***mtv-smartTV***)
+/**LG ** >>                    (Ottplayer )
 
 
 لطلب اضافة قناة او فلم او مسلسل الرجاء التواصل على:  
