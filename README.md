@@ -15,15 +15,15 @@ daily IPTV list  |**AR** ©️
 
                 password : 12312311
 
-/**Computer** >>               (Ottplayer for windows  || ***mtv-windows***)  
+/**Computer** >>               (Ottplayer for windows || ***mtv-windows***)  
 
-/**Iphone & Ipad** >>          (Ottplayer  || ***mtv-ios***) *✅Decoder media player*
+/**Iphone & Ipad** >>          (Ottplayer || ***mtv-ios***) *✅Decoder media player*
 
-/**Firetv Stick & Android** >> (Ottplayer  || ***mtv-FTV***)  
+/**Firetv Stick & Android** >> (Ottplayer || ***mtv-FTV***)  
 
-/**Samsung tizen** >>          (Ottplayer   || ***mtv-smartTV***)
+/**Samsung tizen** >>          (Ottplayer || ***mtv-smartTV***)
  
-/ **LG**   >>                  (Ottplayer )
+/ **LG**   >>                  (Ottplayer || **LG-webOS-TV1tv**)
 
 
 لطلب اضافة قناة او فلم او مسلسل الرجاء التواصل على:  
