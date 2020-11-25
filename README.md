@@ -23,7 +23,7 @@ daily IPTV list  |**AR** ©️
 
 /**Samsung tizen** >>          (Ottplayer || ***mtv-smartTV***)
  
-/ **LG**   >>                  (Ottplayer || **LG-webOS-TV1tv**)
+/ **LG**   >>                  (Ottplayer || **mtv-LG-webOS-TV1**)
 
 
 لطلب اضافة قناة او فلم او مسلسل الرجاء التواصل على:  
