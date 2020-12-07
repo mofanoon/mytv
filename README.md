@@ -17,17 +17,10 @@ daily IPTV list  |**AR** ©️
 
 /**Computer** >>               (Ottplayer for windows || ***mtv-windows***)  
 
-/**Iphone & Ipad** >>          (Ottplayer || ***mtv-ios***) *✅Decoder media player*
+/**Iphone & Ipad** >>          (Ottplayer || ***mtv-ios***) 
 
 /**Firetv Stick & Android** >> (Ottplayer || ***mtv-FTV***)  
 
 /**Samsung tizen** >>          (Ottplayer || ***mtv-smartTV***)
  
 / **LG**   >>                  (Ottplayer || **mtv-LG-webOS-TV1**)
-
-في حال لم تجد جهاز مضاف مسبقاً اكتبلي عل ايميل اسم الجهاز الي ضفته وانا بضيفلك القنوات من عندي :]
-
-
-لطلب اضافة قناة او فلم او مسلسل الرجاء التواصل على:  
-
-mohdfanoon.95@gmail.com
