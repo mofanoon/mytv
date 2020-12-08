@@ -7,7 +7,7 @@ daily IPTV list  |**AR** ©️
 
 
 
-**Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. لا تقم بإضافة جهاز جديد 😃😃  
+**Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. 😃😃  
 
 
                 username : ali96
