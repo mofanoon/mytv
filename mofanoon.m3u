@@ -1,0 +1,820 @@
+#EXTM3U
+#EXTINF:0,ZDF
+#EXTGRP:DE
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:0,ZDF info
+#EXTGRP:DE
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:0,ZDF neo
+#EXTGRP:DE
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:0,das Erste
+#EXTGRP:DE
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:0,tagesschau24
+#EXTGRP:DE
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:0,KIKA FHD
+#EXTGRP:DE
+https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
+#EXTINF:0,arte
+#EXTGRP:DE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0,phoenix
+#EXTGRP:DE
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:0,3sat
+#EXTGRP:DE
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:0,one
+#EXTGRP:DE
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
+#EXTINF:0,|Radio| القرآن الكريم- تلاوات
+#EXTGRP:Islam
+http://live.mp3quran.net:8006/;
+#EXTINF:0,|Radio| فارس عابد
+#EXTGRP:Islam
+http://live.mp3quran.net:9972
+#EXTINF:0,|Radio| سعد الغامدي
+#EXTGRP:Islam
+http://server2.quraan.us:9854/
+#EXTINF:0,|Radio| ماهر لمعيقلي
+#EXTGRP:Islam
+http://server2.quraan.us:9856/
+#EXTINF:0,|Radio| احمد العجمي
+#EXTGRP:Islam
+http://server2.quraan.us:9852/
+#EXTINF:0,|Radio| عبد الباسط عبد الصمد
+#EXTGRP:Islam
+http://quraan.us:9916/
+#EXTINF:0,|mp3| سورة الكهف- ماهر المعيقلي
+#EXTGRP:Islam
+http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:0,|mp3| سورةالكهف- هزاع البلوشيي
+#EXTGRP:Islam
+http://server11.mp3quran.net/hazza/018.mp3
+#EXTINF:0,|S1| مكة-القرآن الكريم ʰᵈ
+#EXTGRP:Islam
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0,|S1| السنة النبوية ʰᵈ
+#EXTGRP:Islam
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:0,|S2| مكة-القرآن الكريم ˢᵈ
+#EXTGRP:Islam
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:0,|S2| السنة النبوية ˢᵈ
+#EXTGRP:Islam
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:0,|S1| البحرين - القرآن الكريم ʰᵈ
+#EXTGRP:Islam
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+#EXTINF:0,|S1| إقرأ
+#EXTGRP:Islam
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:0,|S1| Aljazeera FHD
+#EXTGRP:NEWS
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0,|S1| Aljazeera ˢᵈ
+#EXTGRP:NEWS
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:0,|S1| Aljazeera mubasher FHD
+#EXTGRP:NEWS
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:0,|S1| Aljazeera mubasher ˢᵈ
+#EXTGRP:NEWS
+https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
+#EXTINF:0,|S1| mayadien
+#EXTGRP:NEWS
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:0,|S1| arabiya FHD
+#EXTGRP:NEWS
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8
+#EXTINF:0,|S1| arabiya ˢᵈ
+#EXTGRP:NEWS
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_360p/chunks.m3u8
+#EXTINF:0,|S1| Hadath FHD
+#EXTGRP:NEWS
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8
+#EXTINF:0,|S1| Hadath ˢᵈ
+#EXTGRP:NEWS
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8
+#EXTINF:0,|S1| Russia Today ʰᵈ
+#EXTGRP:NEWS
+https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
+#EXTINF:0,|S1| Russia Today ˢᵈ
+#EXTGRP:NEWS
+https://rt-arab.secure.footprint.net/1104_1600Kb.m3u8
+#EXTINF:0,|S1| BBC ʰᵈ
+#EXTGRP:NEWS
+http://vs-hls-ww.live.cf.md.bbci.co.uk:80/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4=128000-video=5070016.m3u8
+#EXTINF:0,|S1| Sky news ʰᵈ
+#EXTGRP:NEWS
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0,|S1| Sky news ˢᵈ
+#EXTGRP:NEWS
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+#EXTINF:0,|S1| France 24
+#EXTGRP:NEWS
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:0,|S1| Al-Araby FHD
+#EXTGRP:NEWS
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0,|S1| Al-Araby ʰᵈ
+#EXTGRP:NEWS
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:0,|S1| Siberia FHD
+#EXTGRP:DOCUMENTARY
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:0,|S1| AD NAT GEO ˢᵈ
+#EXTGRP:DOCUMENTARY
+http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,|🇵🇸| Palästina Today
+#EXTGRP:PALESTINE
+http://live.paltoday.tv:1935/paltv/live/chunklist_w224703424.m3u8
+#EXTINF:0,|🇵🇸| Palästina 2
+#EXTGRP:PALESTINE
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+#EXTINF:0,|🇵🇸| Palästina
+#EXTGRP:PALESTINE
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8
+#EXTINF:0,|🇵🇸| Palästina mubasher
+#EXTGRP:PALESTINE
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+#EXTINF:0,|🇵🇸| audeh
+#EXTGRP:PALESTINE
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+#EXTINF:0,|🇵🇸| Maan
+#EXTGRP:PALESTINE
+http://htvmada.mada.ps:8888/maannews/index.m3u8
+#EXTINF:0,|🇵🇸| Musawa
+#EXTGRP:PALESTINE
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:0,|🇵🇸| Najah
+#EXTGRP:PALESTINE
+http://htvpalsat.mada.ps:8888/najah/index.m3u8
+#EXTINF:0,|🇵🇸| Falstinie
+#EXTGRP:PALESTINE
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:0,|🇵🇸| Al Aqsa
+#EXTGRP:PALESTINE
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0,|🇵🇸| Hala panet
+#EXTGRP:PALESTINE
+http://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:0,|🇵🇸| Ajyal
+#EXTGRP:PALESTINE
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:0,|🇵🇸| Watar TV
+#EXTGRP:PALESTINE
+http://htvint.mada.ps:8889/orient/index.m3u8
+#EXTINF:0,|🇵🇸| Marah FM
+#EXTGRP:PALESTINE
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:0,|🇵🇸| Nablus tv
+#EXTGRP:PALESTINE
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:0,|🇵🇸| Wattan
+#EXTGRP:PALESTINE
+http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:0,|🇵🇸| Btv
+#EXTGRP:PALESTINE
+http://live.btv2020.com:1935/live/btv/chunklist.m3u8
+#EXTINF:0,|🇵🇸| hala Ramallah
+#EXTGRP:PALESTINE
+https://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8
+#EXTINF:0,|🇵🇸| Fajer 2
+#EXTGRP:PALESTINE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:0,|S1| Amman
+#EXTGRP:JORDAN
+https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
+#EXTINF:0,|S1| Roya FHD
+#EXTGRP:JORDAN
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/chunks.m3u8
+#EXTINF:0,|S1| Roya ˢᵈ
+#EXTGRP:JORDAN
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv_360p/chunks.m3u8
+#EXTINF:0,|S1| Jordan FHD
+#EXTGRP:JORDAN
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
+#EXTINF:0,|S1| Jordan ˢᵈ
+#EXTGRP:JORDAN
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_480p.m3u8
+#EXTINF:0,|S1| Jordan sport FHD
+#EXTGRP:JORDAN
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8
+#EXTINF:0,|S1| Jordan sport ˢᵈ
+#EXTGRP:JORDAN
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_480p.m3u8
+#EXTINF:0,|S1| Al mamlaka FHD
+#EXTGRP:JORDAN
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:0,|S1| Al mamlaka ˢᵈ
+#EXTGRP:JORDAN
+https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+#EXTINF:0,|S1| al Allam FHD
+#EXTGRP:LEBANON
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:0,|S1| al Allam ˢᵈ
+#EXTGRP:LEBANON
+https://live2.alalamtv.net/live/Alalam_high/index.m3u8
+#EXTINF:0,|S1| Al Manar
+#EXTGRP:LEBANON
+http://manar.live:80/x.smil/chunklist_w636211964_b500000.m3u8
+#EXTINF:0,|S1| Al Manar 2
+#EXTGRP:LEBANON
+https://manar.live/iptv/chunklist_w647676101_b300000.m3u8
+#EXTINF:0,|MBC| LBCI FHD
+#EXTGRP:LEBANON
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+#EXTINF:0,|MBC| LBCI ˢᵈ
+#EXTGRP:LEBANON
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
+#EXTINF:0,|S1| Future
+#EXTGRP:LEBANON
+http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
+#EXTINF:0,|S1| Halab today
+#EXTGRP:SYRIA
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:0,|S1| Syria News
+#EXTGRP:SYRIA
+http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
+#EXTINF:0,|S1| Souryana
+#EXTGRP:SYRIA
+http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
+#EXTINF:0,|S1| Nour
+#EXTGRP:SYRIA
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
+#EXTINF:0,|S1| Syria edu
+#EXTGRP:SYRIA
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
+#EXTINF:0,|S1| Lana+ ˢᵈ
+#EXTGRP:SYRIA
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+#EXTINF:0,|S1| Lana tv
+#EXTGRP:SYRIA
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+#EXTINF:0,|S1| Syria FHD
+#EXTGRP:SYRIA
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+#EXTINF:0,|S1| Syria ˢᵈ
+#EXTGRP:SYRIA
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
+#EXTINF:0,|S1| Syria drama
+#EXTGRP:SYRIA
+http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+#EXTINF:0,|S1| Syria sat Tv
+#EXTGRP:SYRIA
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
+#EXTINF:0,|S1| Sama tv
+#EXTGRP:SYRIA
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:0,|MBC| 1 FHD
+#EXTGRP:MBC Group
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:0,|MBC| 2 FHD
+#EXTGRP:MBC Group
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:0,|MBC| 3 FHD
+#EXTGRP:MBC Group
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:0,|MBC| 4 FHD
+#EXTGRP:MBC Group
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:0,|MBC| 5 FHD
+#EXTGRP:MBC Group
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:0,|MBC| Action FHD
+#EXTGRP:MBC Group
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:0,|MBC| Max FHD
+#EXTGRP:MBC Group
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:0,|MBC| Iraq FHD
+#EXTGRP:MBC Group
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:0,|MBC| Masr FHD
+#EXTGRP:MBC Group
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:0,|MBC| Masr 2 FHD
+#EXTGRP:MBC Group
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:0,|MBC| Drama FHD
+#EXTGRP:MBC Group
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:0,|MBC| Drama+ FHD
+#EXTGRP:MBC Group
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:0,|MBC| Bollywood FHD
+#EXTGRP:MBC Group
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:0,|MBC| Panorama FHD
+#EXTGRP:MBC Group
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+#EXTINF:0,|MBC| 1 ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+#EXTINF:0,|MBC| 2 ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:0,|MBC| 3 ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:0,|MBC| 4 ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:0,|MBC| 5 ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:0,|MBC| Action ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+#EXTINF:0,|MBC| Max ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:0,|MBC| Iraq ʰᵈ
+#EXTGRP:MBC Group
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:0,|MBC| Masr ʰᵈ
+#EXTGRP:MBC Group
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+#EXTINF:0,|MBC| Masr 2 ʰᵈ
+#EXTGRP:MBC Group
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:0,|MBC| Drama ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+#EXTINF:0,|MBC| Drama+ ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+#EXTINF:0,|MBC| Bollywood ʰᵈ
+#EXTGRP:MBC Group
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTINF:0,|MBC| Panorama ʰᵈ
+#EXTGRP:MBC Group
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
+#EXTINF:0,|MBC| 1 ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
+#EXTINF:0,|MBC| 2 ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
+#EXTINF:0,|MBC| 3 ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_4.m3u8
+#EXTINF:0,|MBC| 4 ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_4.m3u8
+#EXTINF:0,|MBC| 5 ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
+#EXTINF:0,|MBC| Action ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
+#EXTINF:0,|MBC| Max ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
+#EXTINF:0,|MBC| Iraq ˢᵈ
+#EXTGRP:MBC Group
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_4.m3u8
+#EXTINF:0,|MBC| Masr ˢᵈ
+#EXTGRP:MBC Group
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8
+#EXTINF:0,|MBC| Masr 2 ˢᵈ
+#EXTGRP:MBC Group
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
+#EXTINF:0,|MBC| Drama ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
+#EXTINF:0,|MBC| Drama+ ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_4.m3u8
+#EXTINF:0,|MBC| Bollywood ˢᵈ
+#EXTGRP:MBC Group
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+#EXTINF:0,|MBC| Panorama ˢᵈ
+#EXTGRP:MBC Group
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_4.m3u8
+#EXTINF:0,|rotana| Cinema Ksa FHD
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotanascte35/cinema_scte35/rotana/cinema_1080p/chunks.m3u8
+#EXTINF:0,|rotana| khaleejiya FHD
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotanascte35/khaleejiya_scte35/rotana/khaleejiya_1080p/chunks.m3u8
+#EXTINF:0,|rotana| Kids FHD
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
+#EXTINF:0,|rotana| Comedy FHD
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
+#EXTINF:0,|rotana| Drama FHD
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
+#EXTINF:0,|rotana| Classic FHD
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
+#EXTINF:0,|rotana| Cinema Ksa ˢᵈ
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotanascte35/cinema_scte35/rotana/cinema_480p/chunks.m3u8
+#EXTINF:0,|rotana| khaleejiya ˢᵈ
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotanascte35/khaleejiya_scte35/rotana/khaleejiya_480p/chunks.m3u8
+#EXTINF:0,|rotana| Kids ˢᵈ
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
+#EXTINF:0,|rotana| Comedy ˢᵈ
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_480p/chunks.m3u8
+#EXTINF:0,|rotana| Drama ˢᵈ
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_480p/chunks.m3u8
+#EXTINF:0,|rotana| Classic ˢᵈ
+#EXTGRP:ROTANA Group
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_480p/chunks.m3u8
+#EXTINF:0,|soso| |AR| beIN MOVIES 1 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/22
+#EXTINF:0,|soso| |AR| beIN MOVIES 2 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/23
+#EXTINF:0,|soso| |AR| beIN MOVIES 3 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/24
+#EXTINF:0,|soso| |AR| beIN MOVIES 4 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/25
+#EXTINF:0,|soso| lARl beIN SERIES HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/26
+#EXTINF:0,|soso| |AR| beIN FOX HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/27
+#EXTINF:0,|soso| |AR| beIN FOX MOVIES ACTION HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/28
+#EXTINF:0,|soso| |AR| beIN FOX MOVIES FAMILY HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/29
+#EXTINF:0,|soso| |AR| beIN JEEM HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/30
+#EXTINF:0,|soso| |AR| beIN JUNIOR HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/31
+#EXTINF:0,|soso| |OSN| YAHALA HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/32
+#EXTINF:0,|soso| |OSN| YAHALA OULA HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/33
+#EXTINF:0,|soso| |OSN| YAHALA CINEMA HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/34
+#EXTINF:0,|soso| |OSN| CINEMA 1 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/35
+#EXTINF:0,|soso| |OSN| CINEMA 2 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/36
+#EXTINF:0,|soso| |OSN| MOVIES Premiere HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/37
+#EXTINF:0,|soso| |OSN| MOVIES ACTION HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/38
+#EXTINF:0,|soso| |OSN| MOVIES SERIES HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/39
+#EXTINF:0,|soso| |OSN| MOVIES COMEDY HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/40
+#EXTINF:0,|soso| |OSN| MOVIES DISNEY HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/41
+#EXTINF:0,|soso| |OSN| MOVIES FIRST 1 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/42
+#EXTINF:0,|soso| |OSN| FOX-REWAYAT HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/43
+#EXTINF:0,|soso| Bein drama
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/44
+#EXTINF:0,|soso| ART Cinema HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/45
+#EXTINF:0,|soso|  ART Aflam 2 HD
+#EXTGRP:BEIN Group
+http://sarhantv.xyz:25461/sarhantv/857496/46
+#EXTINF:0,|بتقطع| BEIN Movies 1 HD
+#EXTGRP:BEIN Group
+http://185.96.163.14/bein1mo/index.m3u8
+#EXTINF:0,|بتقطع| BEIN Movies 2 HD
+#EXTGRP:BEIN Group
+http://185.96.163.14/bein2mov/index.m3u8
+#EXTINF:0,|بتقطع| BEIN Movies 3 HD
+#EXTGRP:BEIN Group
+http://185.96.163.14/beinmo3v/index.m3u8
+#EXTINF:0,|soso| beIN Sport 1 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/1
+#EXTINF:0,|soso| beIN Sport 2 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/2
+#EXTINF:0,|soso| beIN Sport 3 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/3
+#EXTINF:0,|soso| beIN Sport 4 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/4
+#EXTINF:0,|soso| beIN Sport 5 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/5
+#EXTINF:0,|soso| beIN Sport 6 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/6
+#EXTINF:0,|soso| beIN Sport 7 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/7
+#EXTINF:0,|soso| beIN Sport 8 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/8
+#EXTINF:0,|soso| beIN Sport 9 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/9
+#EXTINF:0,|soso| beIN Sport 10 HD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/10
+#EXTINF:0,|soso| beIN Sport XTRA
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/11
+#EXTINF:0,|soso| beIN Sport News
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/95
+#EXTINF:0,|soso| beIN Sport 1 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/12
+#EXTINF:0,|soso| beIN Sport 2 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/13
+#EXTINF:0,|soso| beIN Sport 3 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/14
+#EXTINF:0,|soso| beIN Sport 4 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/15
+#EXTINF:0,|soso| beIN Sport 5 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/16
+#EXTINF:0,|soso| beIN Sport 6 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/17
+#EXTINF:0,|soso| beIN Sport 7 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/18
+#EXTINF:0,|soso| beIN Sport 8 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/19
+#EXTINF:0,|soso| beIN Sport 9 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/20
+#EXTINF:0,|soso| beIN Sport 10 SD
+#EXTGRP:BEIN SPORTS
+http://sarhantv.xyz:25461/sarhantv/857496/21
+#EXTINF:0,|بتقطع| BeIN Sports 1 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein1s/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 2 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein2/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 3 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/beins3/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 4 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein4/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 5 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/beins5/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 6 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein6/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 7 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein7/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 8 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein8s/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 9 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein9s/index.m3u8
+#EXTINF:0,|بتقطع| BeIN Sports 10 ˢᵈ
+#EXTGRP:BEIN SPORTS
+http://194.32.79.172/bein10/index.m3u8
+#EXTINF:0,Realmadrid
+#EXTGRP:SPORTS
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:0,Realmadrid en
+#EXTGRP:SPORTS
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+#EXTINF:0,Dubai Sport 1 FHD
+#EXTGRP:SPORTS
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Sport 1 ʰᵈ
+#EXTGRP:SPORTS
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+#EXTINF:0,Dubai Sport 2 FHD
+#EXTGRP:SPORTS
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Sport 2 ʰᵈ
+#EXTGRP:SPORTS
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:0,Dubai Sport 3 FHD
+#EXTGRP:SPORTS
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Sport 3 ʰᵈ
+#EXTGRP:SPORTS
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:0,Dubai Race FHD
+#EXTGRP:SPORTS
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Dubai Race ʰᵈ
+#EXTGRP:SPORTS
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
+#EXTINF:0,adSports1 FHD
+#EXTGRP:SPORTS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,adSports1 ʰᵈ
+#EXTGRP:SPORTS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,adSports2 FHD
+#EXTGRP:SPORTS
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,adSports2 ʰᵈ
+#EXTGRP:SPORTS
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,adSports3 FHD
+#EXTGRP:SPORTS
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,adSports3 ʰᵈ
+#EXTGRP:SPORTS
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,adSports4 FHD
+#EXTGRP:SPORTS
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,adSports4 ʰᵈ
+#EXTGRP:SPORTS
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,YAS FHD
+#EXTGRP:SPORTS
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,YAS ʰᵈ
+#EXTGRP:SPORTS
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,Alkass 1 ʰᵈ
+#EXTGRP:SPORTS
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master570.m3u8
+#EXTINF:0,Alkass 2 ʰᵈ
+#EXTGRP:SPORTS
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master570.m3u8
+#EXTINF:0,Alkass 4 ʰᵈ
+#EXTGRP:SPORTS
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master570.m3u8
+#EXTINF:0,Alkass 5 ʰᵈ
+#EXTGRP:SPORTS
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master570.m3u8
+#EXTINF:0,Alkass online ʰᵈ
+#EXTGRP:SPORTS
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
+#EXTINF:0,Oman tv sport
+#EXTGRP:SPORTS
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0,Red Bull TV ʰᵈ
+#EXTGRP:SPORTS
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,|S1|Qatar 1
+#EXTGRP:Gulf
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
+#EXTINF:0,|S1|Qatar 2
+#EXTGRP:Gulf
+http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
+#EXTINF:0,|S1| Al Rai
+#EXTGRP:Gulf
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:0,|S1| Dubai one
+#EXTGRP:Gulf
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,|S1| Dubai Tv
+#EXTGRP:Gulf
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,|S1| Sma Dubai
+#EXTGRP:Gulf
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:0,|S1| Dubai zaman
+#EXTGRP:Gulf
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+#EXTINF:0,|S1| Noor dubai
+#EXTGRP:Gulf
+http://dmiffthvll.cdn.mangomolo.com:80/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+#EXTINF:0,|S1| Saudi TV
+#EXTGRP:Gulf
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:0,|S1| khalij
+#EXTGRP:Gulf
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:0,|S1| Abudhabi emarat FHD
+#EXTGRP:Gulf
+http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,|S1| Abudhabi emarat ʰᵈ
+#EXTGRP:Gulf
+http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,|S1| Abudhabi FHD
+#EXTGRP:Gulf
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,|S1| Abudhabi ʰᵈ
+#EXTGRP:Gulf
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,|S1| Abudhabi drama FHD
+#EXTGRP:Gulf
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,|S1| Abudhabi drama ʰᵈ
+#EXTGRP:Gulf
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,|S1| KTV 1 ʰᵈ
+#EXTGRP:Gulf
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:0,|S1| KTV 2 ʰᵈ
+#EXTGRP:Gulf
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_720p/chunks.m3u8
+#EXTINF:0,|S1| KTV Al Arabi ʰᵈ
+#EXTGRP:Gulf
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_720p/chunks.m3u8
+#EXTINF:0,|S1| Oman tv GN FHD
+#EXTGRP:Gulf
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0,|S1| Oman tv mubasher FHD
+#EXTGRP:Gulf
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0,|S1| Oman thkafya FHD
+#EXTGRP:Gulf
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:0,|S1| SHarqa
+#EXTGRP:Gulf
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_360p.m3u8
+#EXTINF:0,|S1| SHarqa FHD
+#EXTGRP:Gulf
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
+#EXTINF:0,|S1| SHarqa from kalba ˢᵈ
+#EXTGRP:Gulf
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_360p_chunks.m3u8
+#EXTINF:0,|S1| SHarqa from kalba FHD
+#EXTGRP:Gulf
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
+#EXTINF:0,|S1| Spacetoon
+#EXTGRP:Kids
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0,|MBC| Spacetoon FHD
+#EXTGRP:Kids
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+#EXTINF:0,|MBC| Spacetoon ˢᵈ
+#EXTGRP:Kids
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_4.m3u8
+#EXTINF:0,|MBC|  Cartoon network FHD
+#EXTGRP:Kids
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+#EXTINF:0,|MBC|  Cartoon network ˢᵈ
+#EXTGRP:Kids
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:0,|S1| 2M Maroc
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| Al Aoulaᴴᴰ
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| LAAYOUNᴴᴰ⁺
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| Arryadia
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| Athaqafia
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| Almgharibia
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| Assadissa
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| tamazight
+#EXTGRP:Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0,|S1| Medi1 Tv
+#EXTGRP:Morocco
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:0,|S1| Télé Maroc
+#EXTGRP:Morocco
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0,|S1| M24
+#EXTGRP:Morocco
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w1920236347_b4500000_sleng.m3u8
