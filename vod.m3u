@@ -1,0 +1,699 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="https://images.alarab.com/data/films/146-100/20200524154829.jpg",لص بغداد 2020
+https://cdn.alarab.com/h264/156633_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="https://images.alarab.com/data/films/146-100/20200316134458.jpg",محمد حسين 2020
+https://cdn.alarab.com/h264/153420_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="https://images.alarab.com/data/films/146-100/20200113154131.jpg",قلب امه 2018
+https://cdn.alarab.com/h264/151976_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",لا تراجع ولا استسلام   
+https://belugacdn.shoofmax.com/la-tarajoo/720p/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",رمضان مبروك ابو العالمين حمودة 
+https://belugacdn.shoofmax.com/ramadan-mabrouk/720p/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",مرجان احمد مرجان
+https://belugacdn.shoofmax.com/morgan-ahmad-morgan/720p/index.m3u8
+
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",العيال كبرت  
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-11/movies/ElEyalKebret.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",شاهد مشفش حاجة 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",مدرسة المشاغبين
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/moshghbeen.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",الواد سيد شغال
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/wadsydalshaghal.mp4/playlist.m3u8
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",الزعيم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 01
+https://cdn.alarab.com/h264/159596_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 02
+https://cdn.alarab.com/h264/159788_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 03
+https://cdn.alarab.com/h264/159970_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 04
+https://cdn.alarab.com/h264/160086_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 05
+https://cdn.alarab.com/h264/160202_480p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 06
+https://cdn.alarab.com/h264/160385_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎶 The Voice Senior" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 07
+https://cdn.alarab.com/h264/160445_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/27.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2" tvg-logo="https://www.alaraby.co.uk/sites/default/files/media/images/AE063D36-B19E-4DD1-8D37-ACCC618A817B.jpg",Folge 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/30.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  الخربة" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/kherba/30.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E01
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58517.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E02
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58518.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E03
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58519.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E04
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58520.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E05
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58521.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E06
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58522.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E07
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58523.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E08
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58524.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E09
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58525.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E10
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58526.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E11
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58527.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E12
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58528.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E13
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58529.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E14
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58530.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E15
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58531.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E16
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58532.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E17
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58533.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E18
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58534.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E19
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58535.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E20
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58536.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E21
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/58537.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E22
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/59110.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E23
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/59111.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E24
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/59248.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E25
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/59393.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E26
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/60036.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E27
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/60162.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E28
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/60274.mkv
+#EXTINF:-1 group-title="وطن ع وتر 2020 🇵🇸" tvg-logo="https://www.albayan.ae/polopoly_fs/1.2983917.1497988808!/image/image.jpg",وطن ع وتر S01 E29
+http://uk.redhatiptv.com:25461/series/0brPtg6UR7/hDeVbPBdba/60716.mkv
+
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 01
+https://cdn.alarab.com/h264/160083_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 02
+https://cdn.alarab.com/h264/160108_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 03
+https://cdn.alarab.com/h264/160144_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 04
+https://cdn.alarab.com/h264/160158_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 05
+https://cdn.alarab.com/h264/160187_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 06
+https://cdn.alarab.com/h264/160229_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 07
+https://cdn.alarab.com/h264/160239_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 08
+https://cdn.alarab.com/h264/160277_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 09
+https://cdn.alarab.com/h264/160290_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 10
+https://cdn.alarab.com/h264/160311_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 11
+https://cdn.alarab.com/h264/160378_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 12
+https://cdn.alarab.com/h264/160379_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 13
+https://cdn.alarab.com/h264/160402_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 14
+https://cdn.alarab.com/h264/160417_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 15
+https://cdn.alarab.com/h264/160432_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 16
+https://cdn.alarab.com/h264/160501_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 17
+https://cdn.alarab.com/h264/160504_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 18
+https://cdn.alarab.com/h264/160522_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 19
+https://cdn.alarab.com/h264/160546_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 20
+https://cdn.alarab.com/h264/160564_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 21
+https://cdn.alarab.com/h264/160701_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 22
+https://cdn.alarab.com/h264/160723_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 23
+https://cdn.alarab.com/h264/160796_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 24
+https://cdn.alarab.com/h264/160843_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 25
+https://cdn.alarab.com/h264/160866_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 26
+https://cdn.alarab.com/h264/160928_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 27
+https://cdn.alarab.com/h264/160947_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 28
+https://cdn.alarab.com/h264/160953_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 29
+https://cdn.alarab.com/h264/160978_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="الهيبة الرد 2020 🇱🇧" tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg",Folge 30
+https://cdn.alarab.com/h264/160989_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 01
+https://cdn.alarab.com/textfilenames/testkhil1.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 02
+https://cdn.alarab.com/textfilenames/testkhil2.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 03
+https://cdn.alarab.com/textfilenames/testkhil3.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 04
+https://cdn.alarab.com/textfilenames/testkhil4.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 05
+https://cdn.alarab.com/textfilenames/testkhil5.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 06
+https://cdn.alarab.com/textfilenames/testkhil6.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 07
+https://cdn.alarab.com/textfilenames/testkhil7.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 08
+https://cdn.alarab.com/h264/159313_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 09
+https://cdn.alarab.com/h264/159311_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 10
+https://cdn.alarab.com/textfilenames/testkhil10.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 11
+https://cdn.alarab.com/textfilenames/testkhil11.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 12
+https://cdn.alarab.com/textfilenames/testkhil12.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 13
+https://cdn.alarab.com/textfilenames/testkhil13.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 14
+https://cdn.alarab.com/textfilenames/testkhil14.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 15
+https://cdn.alarab.com/textfilenames/testkhil15.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 16
+https://cdn.alarab.com/textfilenames/testkhil16.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 17
+https://cdn.alarab.com/textfilenames/testkhil17.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 18
+https://cdn.alarab.com/textfilenames/testkhil18.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 19
+https://cdn.alarab.com/textfilenames/testkhil19.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 20
+https://cdn.alarab.com/textfilenames/testkhil20.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 21
+https://cdn.alarab.com/textfilenames/testkhil21.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 22
+https://cdn.alarab.com/textfilenames/testkhil22.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 23
+https://cdn.alarab.com/textfilenames/testkhil23.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 24
+https://cdn.alarab.com/textfilenames/testkhil24.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 25
+https://cdn.alarab.com/textfilenames/testkhil25.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 26
+https://cdn.alarab.com/textfilenames/testkhil26.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 27
+https://cdn.alarab.com/textfilenames/testkhil27.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 28
+https://cdn.alarab.com/textfilenames/testkhil28.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 29
+https://cdn.alarab.com/textfilenames/testkhil29.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 30
+https://cdn.alarab.com/textfilenames/testkhil30.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 31
+https://cdn.alarab.com/textfilenames/testkhil31.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 32
+https://cdn.alarab.com/textfilenames/testkhil32.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 33
+https://cdn.alarab.com/textfilenames/testkhil33.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 34
+https://cdn.alarab.com/textfilenames/testkhil34.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 35
+https://cdn.alarab.com/textfilenames/testkhil35.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 36
+https://cdn.alarab.com/textfilenames/testkhil36.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 37
+https://cdn.alarab.com/textfilenames/testkhil37.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 38
+https://cdn.alarab.com/textfilenames/testkhil38.mp4/index.m3u8
+#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",Folge 39
+https://cdn.alarab.com/textfilenames/testkhil39.mp4/index.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 1 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 28 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/30.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 31 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/31.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 32 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/32.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 1" tvg-logo="",Folge 33
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/33.mp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 1 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 28 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/30.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 31 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/31.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 32 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/32.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 33
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/33.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 2" tvg-logo="",Folge 34
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/34.mp4/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 1 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 3" tvg-logo="",Folge 26
+https://cdn.alarab.com/h264/154291_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 01
+https://cdn.alarab.com/h264/158933_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 02
+https://cdn.alarab.com/h264/159103_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 03
+https://cdn.alarab.com/h264/159254_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 04
+https://cdn.alarab.com/h264/159402_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 05
+https://cdn.alarab.com/h264/159549_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 06
+https://cdn.alarab.com/h264/159698_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 07
+https://cdn.alarab.com/h264/159844_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 08
+https://cdn.alarab.com/h264/159989_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 09
+https://cdn.alarab.com/h264/160142_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 10
+https://cdn.alarab.com/h264/160280_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 11
+https://cdn.alarab.com/h264/160404_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 12
+https://cdn.alarab.com/h264/160526_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 13
+https://cdn.alarab.com/h264/160798_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 14
+https://cdn.alarab.com/h264/160958_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="",Folge 15
+https://cdn.alarab.com/h264/161119_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 01
+https://cdn.alarab.com/h264/159079_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 02
+https://cdn.alarab.com/h264/159237_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 03
+https://cdn.alarab.com/h264/159379_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 04
+https://cdn.alarab.com/h264/159533_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 05
+https://cdn.alarab.com/h264/159668_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 06
+https://cdn.alarab.com/h264/159824_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 07
+https://cdn.alarab.com/h264/160736_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 08
+https://cdn.alarab.com/h264/160117_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 09
+https://cdn.alarab.com/h264/160248_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 10
+https://cdn.alarab.com/h264/160388_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 11
+https://cdn.alarab.com/h264/160500_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 12
+https://cdn.alarab.com/h264/160731_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 13
+https://cdn.alarab.com/h264/160935_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="",Folge 14
+https://cdn.alarab.com/h264/161098_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 1
+https://cdn.alarab.com/h264/159631_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 2
+https://cdn.alarab.com/h264/159781_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 3
+https://cdn.alarab.com/h264/159948_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 4
+https://cdn.alarab.com/h264/160033_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 5
+https://cr7-ronaldo-messi-the-best-19-9-7.govid.co/download/CimaClub.Cam-alkhain.s01.ep05-[720p]-720.16018.mp4
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 6
+https://cdn.alarab.com/h264/160315_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 7
+https://cdn.alarab.com/h264/160436_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 8
+https://cdn.alarab.com/h264/161006_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 9
+https://cdn.alarab.com/h264/160994_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 10
+https://cdn.alarab.com/h264/161217_720p.mp4/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 جانبي الايسر 2020" tvg-logo="",Folge 1
+https://cdn.alarab.com/h264/160679_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 جانبي الايسر 2020" tvg-logo="",Folge 2
+https://ronaldinho-the-best2004-199872-s2.govid.co/download/CimaClub.Cam-janbis01.ep02.hd-[720p]-720.17701.mp4
+#EXTINF:-1 group-title="🇹🇷 جانبي الايسر 2020" tvg-logo="",Folge 3
+https://cdn.alarab.com/h264/161088_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 جانبي الايسر 2020" tvg-logo="",Folge 4
+https://ronaldinho-the-best2004-199872-s2.govid.co/download/CimaClub.Cam-janbis01.ep04.hd-[720p]-480.18812.mp4
