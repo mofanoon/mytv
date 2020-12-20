@@ -6,7 +6,8 @@ daily IPTV list  |**AR** ©️
 # | 📺Mo Fanoon📺 | ©️ | 📺Vod📺 |
 
 https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
-
+<hr>
+https://raw.githubusercontent.com/mofanoon/mytv/main/vod69.m3u
 
 
 **Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. 😃😃  
