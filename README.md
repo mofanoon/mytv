@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/mofanoon/mytv/main/vod69.m3u
 <hr>
 
 
-**Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. 😃😃  
+<center> **Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. 😃😃  </center>
 
 
                 username : ali96
