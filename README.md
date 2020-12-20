@@ -10,8 +10,7 @@ https://raw.githubusercontent.com/mofanoon/mytv/main/mofanoon.m3u
 https://raw.githubusercontent.com/mofanoon/mytv/main/vod69.m3u
 <hr>
 
-
-<center> **Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. 😃😃  </center>
+**Ottplayer** 😃😃 الاجهزة مضافة مسبقاً .. 😃😃
 
 
                 username : ali96
