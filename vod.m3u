@@ -27,7 +27,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.
 #EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="https://images.alarab.com/data/tv/146-100/20201213230203.jpg",Home alone 2 1992 
 https://cdn.alarab.com/h264/161068_720p.mp4/index.m3u8
 #EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="https://images.alarab.com/data/tv/146-100/20200831164146.jpg",Hard kill 2020
-https://cdn.alarab.com/h264/158761_720p.mp4/index.m3u8
+https://cdn.alarab.com/h264/158761_480p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="🎶 The Voice Senior S01" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 01
 https://cdn.alarab.com/h264/159596_720p.mp4/index.m3u8
