@@ -26,8 +26,18 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.
 
 #EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="https://images.alarab.com/data/tv/146-100/20201213230203.jpg",Home alone 2 1992 
 https://cdn.alarab.com/h264/161068_720p.mp4/index.m3u8
-#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="https://images.alarab.com/data/tv/146-100/20200831164146.jpg",Hard kill 2020
-https://cdn.alarab.com/h264/158761_480p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="",Greenland 2020
+https://cdn.alarab.com/h264/160601_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="",Project Power 2020
+https://cdn.alarab.com/h264/158478_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="",Made in Italy 2020
+https://cdn.alarab.com/h264/158417_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="",One Night in Bangkok 2020
+https://cdn.alarab.com/h264/158655_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="",The 2nd 2020
+https://cdn.alarab.com/h264/159479_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🎥 EN Movies" tvg-logo="",Ford vs Ferrari 2019
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ford.v.Ferrari.2019.mp4/index.m3u8
 
 #EXTINF:-1 group-title="🎶 The Voice Senior S01" tvg-logo="https://images.alarab.com/data/tv/146-100/20201008130049.jpg",Folge 01
 https://cdn.alarab.com/h264/159596_720p.mp4/index.m3u8
@@ -1014,6 +1024,8 @@ https://cdn.alarab.com/h264/160958_720p.mp4/index.m3u8
 https://cdn.alarab.com/h264/161119_720p.mp4/index.m3u8
 #EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="https://images.alarab.com/data/tv/146-100/20200908155611.jpg",Folge 16
 https://cdn.alarab.com/h264/161382_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷  الحفرة 4 2020" tvg-logo="https://images.alarab.com/data/tv/146-100/20200908155611.jpg",Folge 17
+https://cdn.alarab.com/h264/161543_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="https://images.alarab.com/data/tv/146-100/20200914141105.jpg",Folge 01
 https://cdn.alarab.com/h264/159079_720p.mp4/index.m3u8
