@@ -6,9 +6,7 @@ http://fanoontv.com:25461/get.php?username=freeiptv&password=freeiptv&type=m3u_p
 
 mag box or STBEMU 
 
-mac address 
+mac address >> d1:27:e5:84:22:41
 
-
-<strong>d1:27:e5:84:22:41</strong>
 
 100 user
