@@ -1,10 +1,10 @@
-<b>Free IPTV <b>
+**Free IPTV**
 
 
 http://fanoontv.com:25461/get.php?username=freeiptv&password=freeiptv&type=m3u_plus&output=mpegts
 
 
-mag box or STBEMU 
+**mag box or STBEMU **
 
 portal url >> http://fanoontv.com:25461/c
 
