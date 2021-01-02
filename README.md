@@ -1,6 +1,6 @@
 # Fanoon TV
 
-<center> **Free IPTV** </center>
+**Free IPTV**
 
 
 http://fanoontv.com:25461/get.php?username=freeiptv&password=freeiptv&type=m3u_plus&output=mpegts
