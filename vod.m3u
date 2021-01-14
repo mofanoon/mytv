@@ -1408,7 +1408,8 @@ https://cdn.alarab.com/h264/161098_720p.mp4/index.m3u8
 https://cdn.alarab.com/h264/161356_720p.mp4/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="https://images.alarab.com/data/tv/146-100/20200914141105.jpg",Folge 16
 https://cdn.alarab.com/h264/161526_720p.mp4/index.m3u8
-
+#EXTINF:-1 group-title="🇹🇷 علي رضا 2020" tvg-logo="https://images.alarab.com/data/tv/146-100/20200914141105.jpg",Folge 17
+https://cdn.alarab.com/h264/161778_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 1
 https://cdn.alarab.com/h264/159631_720p.mp4/index.m3u8
@@ -1434,3 +1435,5 @@ https://cdn.alarab.com/h264/161217_720p.mp4/index.m3u8
 https://cdn.alarab.com/h264/161443_720p.mp4/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 12
 https://cdn.alarab.com/h264/161582_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 الخائن 2020" tvg-logo="",Folge 13
+https://cdn.alarab.com/h264/161857_720p.mp4/index.m3u8
