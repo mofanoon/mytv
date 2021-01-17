@@ -355,9 +355,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/ayam2/29.mp4/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇾  ايام الدراسة 2",Folge 30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/ayam2/30.mp4/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇾  ايام الدراسة 2",Folge 31
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/ayam2/30.mp4/playlist.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/ayam2/31.mp4/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇾  ايام الدراسة 2",Folge 32
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/ayam2/30.mp4/playlist.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/ayam2/32.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 1" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 01
 https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep1/720p/index.m3u8
@@ -411,6 +411,71 @@ https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep24/720p/index.m3u8
 https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep25/720p/index.m3u8
 #EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 1" tvg-logo="https://nojomy.com/wp-content/uploads/2018/12/word-image.jpeg",Folge 26
 https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep26/720p/index.m3u8
+
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/30.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 31
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/31.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  يوميات مدير عام 2",Folge 32
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/manager2/32.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="🇸🇾  جميل و هنا 1" ,Folge 01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/jamel1/1.mp4/playlist.m3u8
