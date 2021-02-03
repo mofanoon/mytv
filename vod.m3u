@@ -20,6 +20,8 @@ https://cdn.alarab.com/h264/151570_720p.mp4/index.m3u8
 https://cdn.alarab.com/h264/158100_720p.mp4/index.m3u8
 #EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",الفلوس
 https://cdn.alarab.com/h264/158093_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",صندوق الدنيا
+https://cdn.alarab.com/h264/159189_720p.mp4/index.m3u8
 
 #EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",العيال كبرت  
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-11/movies/ElEyalKebret.mp4/playlist.m3u8
