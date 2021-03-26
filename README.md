@@ -13,5 +13,5 @@
 
 ‏http://fanoontv.com:8081/live/Basel/Raddwan/351.m3u8
 
-‏|iPhone/iPad : Safari |Android : Chrome |Pc/Laptop : vlc
+‏|iPhone/iPad:Safari |Android:Chrome |Pc/Laptop:vlc
 
